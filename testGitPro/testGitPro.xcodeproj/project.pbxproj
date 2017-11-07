@@ -16,6 +16,7 @@
 		8387D0101FB1E1B2007D2645 /* testGitProTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8387D00F1FB1E1B2007D2645 /* testGitProTests.m */; };
 		8387D01B1FB1E1B3007D2645 /* testGitProUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8387D01A1FB1E1B3007D2645 /* testGitProUITests.m */; };
 		8387D02D1FB1FAF1007D2645 /* testObj22.m in Sources */ = {isa = PBXBuildFile; fileRef = 8387D02C1FB1FAF1007D2645 /* testObj22.m */; };
+		8387D0331FB1FD36007D2645 /* test220.m in Sources */ = {isa = PBXBuildFile; fileRef = 8387D0321FB1FD36007D2645 /* test220.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		8387D01C1FB1E1B3007D2645 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8387D02B1FB1FAF1007D2645 /* testObj22.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = testObj22.h; sourceTree = "<group>"; };
 		8387D02C1FB1FAF1007D2645 /* testObj22.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testObj22.m; sourceTree = "<group>"; };
+		8387D0311FB1FD36007D2645 /* test220.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test220.h; sourceTree = "<group>"; };
+		8387D0321FB1FD36007D2645 /* test220.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test220.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +111,8 @@
 				8387CFF71FB1E1B2007D2645 /* AppDelegate.m */,
 				8387CFF91FB1E1B2007D2645 /* ViewController.h */,
 				8387CFFA1FB1E1B2007D2645 /* ViewController.m */,
+				8387D0311FB1FD36007D2645 /* test220.h */,
+				8387D0321FB1FD36007D2645 /* test220.m */,
 				8387D02B1FB1FAF1007D2645 /* testObj22.h */,
 				8387D02C1FB1FAF1007D2645 /* testObj22.m */,
 				8387CFFC1FB1E1B2007D2645 /* Main.storyboard */,
@@ -273,6 +278,7 @@
 				8387CFFB1FB1E1B2007D2645 /* ViewController.m in Sources */,
 				8387D02D1FB1FAF1007D2645 /* testObj22.m in Sources */,
 				8387D0061FB1E1B2007D2645 /* main.m in Sources */,
+				8387D0331FB1FD36007D2645 /* test220.m in Sources */,
 				8387CFF81FB1E1B2007D2645 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
