@@ -18,19 +18,16 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-//    在develop正式开发   come on!
-    
-//    test11
-    
-    
+//    修改develop22
 }
 
 -(void)viewWillAppear:(BOOL)animated{
-    [super viewWillAppear:animated];
+    [super viewWillAppear:YES];
     
+    
+//    test22
     
 }
-
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
