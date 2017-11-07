@@ -20,6 +20,14 @@
     
 //    在develop正式开发   come on!
     
+//    test11
+    
+    
+}
+
+-(void)viewWillAppear:(BOOL)animated{
+    [super viewWillAppear:animated];
+    
     
 }
 
