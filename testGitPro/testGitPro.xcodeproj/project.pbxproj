@@ -16,6 +16,7 @@
 		8387D0101FB1E1B2007D2645 /* testGitProTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8387D00F1FB1E1B2007D2645 /* testGitProTests.m */; };
 		8387D01B1FB1E1B3007D2645 /* testGitProUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8387D01A1FB1E1B3007D2645 /* testGitProUITests.m */; };
 		8387D02A1FB1F578007D2645 /* testObg.m in Sources */ = {isa = PBXBuildFile; fileRef = 8387D0291FB1F578007D2645 /* testObg.m */; };
+		8387D0361FB29036007D2645 /* obj11.m in Sources */ = {isa = PBXBuildFile; fileRef = 8387D0351FB29036007D2645 /* obj11.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		8387D01C1FB1E1B3007D2645 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8387D0281FB1F578007D2645 /* testObg.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = testObg.h; sourceTree = "<group>"; };
 		8387D0291FB1F578007D2645 /* testObg.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testObg.m; sourceTree = "<group>"; };
+		8387D0341FB29036007D2645 /* obj11.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = obj11.h; sourceTree = "<group>"; };
+		8387D0351FB29036007D2645 /* obj11.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = obj11.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				8387CFFA1FB1E1B2007D2645 /* ViewController.m */,
 				8387D0281FB1F578007D2645 /* testObg.h */,
 				8387D0291FB1F578007D2645 /* testObg.m */,
+				8387D0341FB29036007D2645 /* obj11.h */,
+				8387D0351FB29036007D2645 /* obj11.m */,
 				8387CFFC1FB1E1B2007D2645 /* Main.storyboard */,
 				8387CFFF1FB1E1B2007D2645 /* Assets.xcassets */,
 				8387D0011FB1E1B2007D2645 /* LaunchScreen.storyboard */,
@@ -270,6 +275,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8387D0361FB29036007D2645 /* obj11.m in Sources */,
 				8387D02A1FB1F578007D2645 /* testObg.m in Sources */,
 				8387CFFB1FB1E1B2007D2645 /* ViewController.m in Sources */,
 				8387D0061FB1E1B2007D2645 /* main.m in Sources */,
