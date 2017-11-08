@@ -1,16 +1,13 @@
 //
-//  testObj22.m
+//  test220.h
 //  testGitPro
 //
 //  Created by 徐志鹏 on 2017/11/7.
 //  Copyright © 2017年 徐志鹏. All rights reserved.
 //
 
-#import "testObj22.h"
+#import <Foundation/Foundation.h>
 
-@implementation testObj22
-
-
-//修改一下,观察develop有没有
+@interface test220 : NSObject
 
 @end
